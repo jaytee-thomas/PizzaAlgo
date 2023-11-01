@@ -1,4 +1,5 @@
 1. pick up phone dail pizza hut
+1a. ask for daily specials
 2. give pizza order
 3. select delivery or pick up
 4. pay for pizza
